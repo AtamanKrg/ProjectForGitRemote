@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Локальный_репозиторий
 {
-    internal class Library
+    internal class Class1
     {
-        //sdfghj
+  
     }
 }
