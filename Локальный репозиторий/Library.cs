@@ -11,5 +11,8 @@ namespace Локальный_репозиторий
         //sdfghj
 
         //sdfgh
+
+        //dfgyhujik
+        //Клон клон
     }
 }
