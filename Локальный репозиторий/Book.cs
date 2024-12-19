@@ -8,5 +8,6 @@ namespace Локальный_репозиторий
 {
     internal class Book
     {
+        //loijkhujgh
     }
 }
