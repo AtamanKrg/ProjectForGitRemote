@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Локальный_репозиторий
 {
-    internal class Class1
+    internal class Book
     {
-        //Изменение 1
     }
 }

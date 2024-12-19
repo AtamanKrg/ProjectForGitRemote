@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             //Изменение 2
+            //Изменение 4
         }
     }
 }
