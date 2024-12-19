@@ -8,6 +8,6 @@ namespace Локальный_репозиторий
 {
     internal class Library
     {
-        //uhygtf
+        
     }
 }
